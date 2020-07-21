@@ -121,7 +121,7 @@ public class HomePage extends javax.swing.JFrame {
         jLabel3.setText("Job Locations");
 
         jComboBox2.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
-        jComboBox2.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Any Where Bangladesh", "Dhaka", "Khulna", "Rajshahi", "Sylhet", " " }));
+        jComboBox2.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Any Where Bangladesh", "Dhaka", "Khulna", "Rajshahi", "Sylhet" }));
         jComboBox2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jComboBox2ActionPerformed(evt);

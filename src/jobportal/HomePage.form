@@ -231,13 +231,12 @@
               <Font name="Tahoma" size="24" style="0"/>
             </Property>
             <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
-              <StringArray count="6">
+              <StringArray count="5">
                 <StringItem index="0" value="Any Where Bangladesh"/>
                 <StringItem index="1" value="Dhaka"/>
                 <StringItem index="2" value="Khulna"/>
                 <StringItem index="3" value="Rajshahi"/>
                 <StringItem index="4" value="Sylhet"/>
-                <StringItem index="5" value=" "/>
               </StringArray>
             </Property>
           </Properties>
